@@ -1,3 +1,3 @@
-# PRACTICAS SIMULACION Iván Narciso Guzmán Hernández
+# PRACTICAS SIMULACION de Iván Narciso Guzmán Hernández
 ---
 REPOSITORIO  PARA PRACTICAS SIMULACION
